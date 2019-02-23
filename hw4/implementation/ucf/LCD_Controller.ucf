@@ -1,0 +1,15 @@
+NET clk LOC = T9;
+
+NET LCD_RS LOC = L18;
+NET LCD_RW LOC = L17;
+NET LCD_E  LOC = M18;
+NET DB [0] LOC = R15;
+NET DB [1] LOC = R16;
+NET DB [2] LOC = P17;
+NET DB [3] LOC = M15;
+
+NET resetbutton LOC = L14;
+
+
+NET "clk" TNM_NET = "clk";
+TIMESPEC "TS_clk" = PERIOD "clk" 20 ns HIGH 50 %;
