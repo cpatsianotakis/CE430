@@ -6,4 +6,4 @@ In this repository I have all the projects I made for course CE430 "Laboratory o
 All my projects are written in Verilog HDL language and are programmed on the Spartan 3 FPGA board.
 
 Teacher of this course is Christos Sotiriou
-and teacher assistances Nikos Sketopoulos and Stavros Simoglou.
+and teacher assistants Nikos Sketopoulos and Stavros Simoglou.
